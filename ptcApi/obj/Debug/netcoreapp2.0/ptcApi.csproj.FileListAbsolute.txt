@@ -1,0 +1,11 @@
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.csprojAssemblyReference.cache
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.csproj.CoreCompileInputs.cache
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.AssemblyInfoInputs.cache
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.AssemblyInfo.cs
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\bin\Debug\netcoreapp2.0\ptcApi.deps.json
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\bin\Debug\netcoreapp2.0\ptcApi.runtimeconfig.json
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\bin\Debug\netcoreapp2.0\ptcApi.runtimeconfig.dev.json
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\bin\Debug\netcoreapp2.0\ptcApi.dll
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\bin\Debug\netcoreapp2.0\ptcApi.pdb
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.dll
+C:\Users\Mraih\Documents\summerStuff(2018)\AngularJwtNetCore\ptcApi\obj\Debug\netcoreapp2.0\ptcApi.pdb
